@@ -64,9 +64,8 @@ This project is an AI-powered system designed to automate the process of resume 
 
 ## Example Output
 
-Below is a screenshot of the output:
+ screenshot of the output is given :
 
-![Screenshot of Output](./screenshots/output.png)
 
 In this example, resumes were uploaded, and the system ranked them based on their relevance to the provided job description.
 
