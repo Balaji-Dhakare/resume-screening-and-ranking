@@ -64,7 +64,7 @@ This project is an AI-powered system designed to automate the process of resume 
 
 ## Example Output
 
- screenshot of the output is given :
+ screenshot of the output is given in repo :
 
 
 In this example, resumes were uploaded, and the system ranked them based on their relevance to the provided job description.
@@ -72,7 +72,7 @@ In this example, resumes were uploaded, and the system ranked them based on thei
 ---
 
 ## Sample Data
-The project includes sample resumes and a job description to test the functionality. You can find them in the `sample_data` folder.
+The project includes sample resumes and a job description to test the functionality. You can find them in the repo
 
 ---
 
@@ -83,11 +83,3 @@ The project includes sample resumes and a job description to test the functional
 - Incorporate feedback mechanisms to refine ranking results.
 
 ---
-
-## Acknowledgments
-Special thanks to the contributors and the resources that helped build this project. The inspiration for this system stems from the growing need for automated and unbiased recruitment solutions.
-
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
